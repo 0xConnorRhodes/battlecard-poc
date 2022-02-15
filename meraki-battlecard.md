@@ -6,7 +6,7 @@
 
 **Verkada:** 1-2s of latency
 
-**Meraki:** 5-10s of latency
+**Meraki:** 5-15s of latency
 
 ## Summary
 
